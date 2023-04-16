@@ -598,9 +598,6 @@ button {
   fill: currentColor;
 }
 
-.footer-input-wrap {
-}
-
 .footer-input-title {
   font-weight: 500;
   font-size: 16px;
@@ -837,15 +834,6 @@ button {
   color: #8e8f99;
   align-items: center;
 }
-
-/* .modal-label-text-accept::before {
-  content: "";
-  width: 16px;
-  height: 16px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
-  border-radius: 2px;
-  margin-right: 8px;
-} */
 
 .modal-label-text-accept span {
   width: 16px;
